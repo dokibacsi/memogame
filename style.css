@@ -1,0 +1,8 @@
+.memogame img{
+    width: auto;
+    height: 250px;
+}
+
+.memogame img:hover{
+    border: 1px solid black;
+}
